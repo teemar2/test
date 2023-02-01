@@ -1,2 +1,2 @@
-#"git add <file>..."
-#"git restore <file>..."
+"git add <file>..."
+"git restore <file>..."
