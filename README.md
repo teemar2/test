@@ -1,3 +1,3 @@
 "git add <file>..."
 "git restore <file>..."
-this change is done on thr feature1 branch
+this change is done on the feature1 branch
